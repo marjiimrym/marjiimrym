@@ -9,7 +9,7 @@
 
 Hii! 👋✨ I'm Marjaan, a Data Science student who's always looking to learn, grow, and expand my knowledge in **Machine Learning & Data Science** 🧠💻
 
-My interests include using ML in the **medical industry** 🩺 to bridge the gap between clinicians and patients, as well as exploring how data science can be integrated into the **fashion industry** 👗📊
+My interests include using ML in the **medical industry** 🩺 to bridge the gap between clinicians and their patients, as well as exploring how data science can be integrated into the **fashion industry** 👗📊
 
 🚀 **Currently working on 2 projects:**
 
