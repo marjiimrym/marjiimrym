@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <img src="https://i.pinimg.com/736x/76/92/4f/76924f7408ea89a65ea903fc61e28f68.jpg" alt="Banner" width="100%">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-black?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/maryam-hameed-a83167188)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-black?style=for-the-badge&logo=gmail)](mailto:maryamhammeed75@gmail.com)
+(www.linkedin.com/in/maryam-hameed-a83167188)
+(mailto:maryamhammeed75@gmail.com)
 
 <img align="right" src="https://i.pinimg.com/1200x/26/6e/9e/266e9ecae8b7751caccf41155dde8db5.jpg" width="250">
 
