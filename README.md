@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://i.pinimg.com/736x/76/92/4f/76924f7408ea89a65ea903fc61e28f68.jpg" alt="Banner" width="100%">
+<img src="https://i.pinimg.com/736x/76/92/4f/76924f7408ea89a65ea903fc61e28f68.jpg" alt="Banner" width="50%">
 (www.linkedin.com/in/maryam-hameed-a83167188)
 (mailto:maryamhammeed75@gmail.com)
 
