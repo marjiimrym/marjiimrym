@@ -2,8 +2,8 @@
 
 <img src="mybanner.png" width="100%" alt="Banner">
 
-**💌 my [linkedin](www.linkedin.com/in/maryam-hameed-a83167188)** <br>
-**🚀 my [email](maryamhammeed75@gmail.com)**
+**🚀 my [linkedin](www.linkedin.com/in/maryam-hameed-a83167188)** <br>
+**💌 my [email](maryamhammeed75@gmail.com)**
 
 <img align="right" src="https://i.pinimg.com/1200x/26/6e/9e/266e9ecae8b7751caccf41155dde8db5.jpg" width="250">
 
